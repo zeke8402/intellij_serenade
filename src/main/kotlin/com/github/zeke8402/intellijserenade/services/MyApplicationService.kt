@@ -1,6 +1,6 @@
-package org.jetbrains.plugins.template.services
+package com.github.zeke8402.intellijserenade.services
 
-import org.jetbrains.plugins.template.MyBundle
+import com.github.zeke8402.intellijserenade.MyBundle
 
 class MyApplicationService {
 
