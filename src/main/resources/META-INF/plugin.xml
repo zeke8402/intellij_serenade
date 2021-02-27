@@ -1,6 +1,6 @@
 <idea-plugin>
     <id>com.github.zeke8402.intellijserenade</id>
-    <name>intellij_serenade</name>
+    <name>Serenade Theme</name>
     <vendor>zeke8402</vendor>
 
     <!-- Product and plugin compatibility requirements -->

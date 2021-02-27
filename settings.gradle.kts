@@ -1,1 +1,1 @@
-rootProject.name = "intellij_serenade"
+rootProject.name = "Serenade Theme"
