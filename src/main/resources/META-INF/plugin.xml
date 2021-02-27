@@ -6,10 +6,12 @@
     <!-- Product and plugin compatibility requirements -->
     <!-- https://plugins.jetbrains.com/docs/intellij/plugin-compatibility.html -->
     <depends>com.intellij.modules.platform</depends>
+    <depends>com.intellij.modules.lang</depends>
 
     <extensions defaultExtensionNs="com.intellij">
         <applicationService serviceImplementation="com.github.zeke8402.intellijserenade.services.MyApplicationService"/>
         <projectService serviceImplementation="com.github.zeke8402.intellijserenade.services.MyProjectService"/>
+        <themeProvider id="1e4fd0c8-b6f2-4385-a490-22b571335fae" path="/serenade.theme.json"/>
     </extensions>
 
     <applicationListeners>
