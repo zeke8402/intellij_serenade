@@ -5,7 +5,7 @@
 [![Downloads](https://img.shields.io/jetbrains/plugin/d/PLUGIN_ID.svg)](https://plugins.jetbrains.com/plugin/PLUGIN_ID)
 
 <!-- Plugin description -->
-![screenshot](https://plugins.jetbrains.com/files/16190/screenshot_cfecb5bf-28cc-4464-8b1f-ee09d2c182c4)
+![screenshot](https://plugins.jetbrains.com/files/16205/screenshot_2b768f9e-a8c7-4319-958c-db2b49562175)
 Implementation of the [Serenade Theme](https://github.com/b4skyx/serenade) in Jetbrains IDEs.  
 A low contrast color scheme that's easy on the eyes!
 <!-- Plugin description end -->
