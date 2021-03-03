@@ -4,6 +4,8 @@
 [![Version](https://img.shields.io/jetbrains/plugin/v/16227.svg)](https://plugins.jetbrains.com/plugin/16227)
 [![Downloads](https://img.shields.io/jetbrains/plugin/d/16227.svg)](https://plugins.jetbrains.com/plugin/16227)
 
+[Plugin Link](https://plugins.jetbrains.com/plugin/16227-serenade-theme)
+
 <!-- Plugin description -->
 ![screenshot](https://plugins.jetbrains.com/files/16205/screenshot_2b768f9e-a8c7-4319-958c-db2b49562175)
 Implementation of the [Serenade Theme](https://github.com/b4skyx/serenade) in Jetbrains IDEs.  
