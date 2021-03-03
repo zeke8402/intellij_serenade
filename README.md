@@ -1,8 +1,8 @@
 # Serenade Jetbrains Theme
 
 ![Build](https://github.com/zeke8402/intellij_serenade/workflows/Build/badge.svg)
-[![Version](https://img.shields.io/jetbrains/plugin/v/PLUGIN_ID.svg)](https://plugins.jetbrains.com/plugin/PLUGIN_ID)
-[![Downloads](https://img.shields.io/jetbrains/plugin/d/PLUGIN_ID.svg)](https://plugins.jetbrains.com/plugin/PLUGIN_ID)
+[![Version](https://img.shields.io/jetbrains/plugin/v/16227.svg)](https://plugins.jetbrains.com/plugin/16227)
+[![Downloads](https://img.shields.io/jetbrains/plugin/d/16227.svg)](https://plugins.jetbrains.com/plugin/16227)
 
 <!-- Plugin description -->
 ![screenshot](https://plugins.jetbrains.com/files/16205/screenshot_2b768f9e-a8c7-4319-958c-db2b49562175)
