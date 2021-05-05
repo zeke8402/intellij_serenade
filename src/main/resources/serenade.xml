@@ -1,20 +1,21 @@
-<scheme name="Serenade" version="142">
+<scheme name="Serenade copy" version="142">
   <option name="FONT_SCALE" value="1.0" />
   <metaInfo>
-    <property name="created">2021-02-26T09:54:00</property>
+    <property name="created">2021-03-16T16:41:47</property>
     <property name="ide">Python</property>
     <property name="ideVersion">2020.3.3.0.0</property>
-    <property name="modified">2021-02-26T09:54:09</property>
-    <property name="originalScheme">Serenade</property>
+    <property name="modified">2021-03-16T16:41:59</property>
+    <property name="originalScheme">Serenade copy</property>
   </metaInfo>
   <option name="LINE_SPACING" value="1.2" />
   <option name="EDITOR_FONT_SIZE" value="14" />
   <option name="EDITOR_FONT_NAME" value="JetBrains Mono" />
+  <option name="EDITOR_LIGATURES" value="true" />
   <colors>
     <option name="ADDED_LINES_COLOR" value="79740e" />
     <option name="ANNOTATIONS_COLOR" value="928374" />
     <option name="CARET_ROW_COLOR" value="2e3338" />
-    <option name="CONSOLE_BACKGROUND_KEY" value="1d2021" />
+    <option name="CONSOLE_BACKGROUND_KEY" value="2a2f33" />
     <option name="DOCUMENTATION_COLOR" value="282828" />
     <option name="FOLDED_TEXT_BORDER_COLOR" value="665c54" />
     <option name="GUTTER_BACKGROUND" value="2a2f33" />
@@ -38,7 +39,6 @@
         <option name="EFFECT_TYPE" value="1" />
       </value>
     </option>
-    <option name="ANNOTATION_NAME_ATTRIBUTES" baseAttributes="" />
     <option name="ANONYMOUS_CLASS_NAME_ATTRIBUTES">
       <value>
         <option name="FOREGROUND" value="fabd2f" />
@@ -127,7 +127,7 @@
     </option>
     <option name="CONSOLE_ERROR_OUTPUT">
       <value>
-        <option name="FOREGROUND" value="fb4934" />
+        <option name="FOREGROUND" value="d76e6e" />
       </value>
     </option>
     <option name="CONSOLE_GRAY_OUTPUT">
@@ -159,7 +159,7 @@
     </option>
     <option name="CONSOLE_NORMAL_OUTPUT">
       <value>
-        <option name="FOREGROUND" value="ebdbb2" />
+        <option name="FOREGROUND" value="c1bf89" />
       </value>
     </option>
     <option name="CONSOLE_RED_BRIGHT_OUTPUT">
@@ -175,12 +175,12 @@
     </option>
     <option name="CONSOLE_SYSTEM_OUTPUT">
       <value>
-        <option name="FOREGROUND" value="fabd2f" />
+        <option name="FOREGROUND" value="acb765" />
       </value>
     </option>
     <option name="CONSOLE_USER_INPUT">
       <value>
-        <option name="FOREGROUND" value="ebdbb2" />
+        <option name="FOREGROUND" value="87c095" />
       </value>
     </option>
     <option name="CONSOLE_WHITE_OUTPUT">
@@ -361,7 +361,6 @@
         <option name="BACKGROUND" value="2a2f33" />
       </value>
     </option>
-    <option name="DEFAULT_INSTANCE_FIELD" baseAttributes="DEFAULT_IDENTIFIER" />
     <option name="DEFAULT_INVALID_STRING_ESCAPE">
       <value>
         <option name="FOREGROUND" value="fb4934" />
@@ -426,8 +425,6 @@
         <option name="FOREGROUND" value="bfddb2" />
       </value>
     </option>
-    <option name="DEFAULT_STATIC_FIELD" baseAttributes="DEFAULT_IDENTIFIER" />
-    <option name="DEFAULT_STATIC_METHOD" baseAttributes="DEFAULT_FUNCTION_DECLARATION" />
     <option name="DEFAULT_STRING">
       <value>
         <option name="FOREGROUND" value="acb765" />
@@ -703,7 +700,6 @@
         <option name="FOREGROUND" value="d3869b" />
       </value>
     </option>
-    <option name="PY.BUILTIN_NAME" baseAttributes="DEFAULT_PREDEFINED_SYMBOL" />
     <option name="PY.CLASS_DEFINITION">
       <value>
         <option name="FOREGROUND" value="689d6a" />
@@ -722,8 +718,6 @@
         <option name="EFFECT_TYPE" value="1" />
       </value>
     </option>
-    <option name="PY.KEYWORD" baseAttributes="DEFAULT_KEYWORD" />
-    <option name="PY.KEYWORD_ARGUMENT" baseAttributes="DEFAULT_PARAMETER" />
     <option name="PY.PREDEFINED_DEFINITION">
       <value>
         <option name="FOREGROUND" value="689d6a" />
@@ -1007,7 +1001,6 @@
         <option name="EFFECT_TYPE" value="1" />
       </value>
     </option>
-    <option name="XML_PROLOGUE" baseAttributes="TEXT" />
     <option name="XML_TAG_NAME">
       <value>
         <option name="FOREGROUND" value="83a598" />
