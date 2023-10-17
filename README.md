@@ -1,3 +1,7 @@
+# Theme Discontinued
+Jetbrains requires this plugin to be manually compiled and resubmitted for review for every minor version change, despite none of the code changing whatsoever.
+Because of this, I have decided to discontinue the development of this plugin. Should there come a time when maintaining a simple theme isn't unmanageable, I may support it.
+
 # Serenade Jetbrains Theme
 
 ![Build](https://github.com/zeke8402/intellij_serenade/workflows/Build/badge.svg)
